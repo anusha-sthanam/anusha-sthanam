@@ -15,8 +15,6 @@ This project involves analyzing the data to get a fair idea about the demand of 
 #### [Customers Prediction](https://github.com/anusha-sthanam/CustomersPrediction)
 This project involves analyzing the data and build an ML model to help identify which leads are more likely to convert to paid customers. 
 
-- 👀 I’m interested in 
 - 🌱 I’m currently learning AI with cloud and Networking and Graphical models. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anushasthanam12@gmail.com
 
