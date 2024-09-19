@@ -6,13 +6,13 @@ I am passionate about exploring the limitless possibilities of Machine Learning 
 
 ## Projects
 
-#### [Amazon Products Recommendation System]([(https://github.com/anusha-sthanam/Recommendation_Systems)]
+#### [Amazon Products Recommendation System](https://github.com/anusha-sthanam/Recommendation_Systems)
 This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques.
 
-#### [FoodHub Analysis]([(https://github.com/anusha-sthanam/FoodHub_Analysis)]
+#### [FoodHub Analysis](https://github.com/anusha-sthanam/FoodHub_Analysis)
 This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
 
-#### [CuStomers Prediction]([(https://github.com/anusha-sthanam/CustomersPrediction)]
+#### [CuStomers Prediction](https://github.com/anusha-sthanam/CustomersPrediction)
 This project involves analyzing the data and build an ML model to help identify which leads are more likely to convert to paid customers. 
 
 - 👀 I’m interested in 
