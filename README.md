@@ -12,7 +12,7 @@ This project involves recommending the best Amazon products available to users b
 #### [FoodHub Analysis](https://github.com/anusha-sthanam/FoodHub_Analysis)
 This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
 
-#### [CuStomers Prediction](https://github.com/anusha-sthanam/CustomersPrediction)
+#### [Customers Prediction](https://github.com/anusha-sthanam/CustomersPrediction)
 This project involves analyzing the data and build an ML model to help identify which leads are more likely to convert to paid customers. 
 
 - 👀 I’m interested in 
