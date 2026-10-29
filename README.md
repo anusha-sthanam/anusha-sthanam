@@ -1,20 +1,40 @@
-<h1 align="center"> Hi, I’m Anusha Sthanam</h1>
-<h5 align="center">I am a software engineer with 10+ years of experience in .Net, Java, and Content Management system tools like SDL Tridion. 
-I am passionate about exploring the limitless possibilities of Machine Learning and AI. I'm excited to share that I’ve completed the Data Science and Machine Learning: Making Data-Driven Decisions program by Massachusetts Institute of Technology IDSS! 🎓 </h3>
+I am a software engineer with 10+ years of experience in .NET, Java, and Enterprise Content Management (ECM) platforms such as SDL Tridion. I specialize in building scalable backend applications, APIs, and enterprise solutions, and I am passionate about exploring the possibilities of Artificial Intelligence (AI) and Machine Learning (ML).
 
-<h5 align="center">Below is the collection of my projects each showcasing different aspects of my interests. </h5>
+I am excited to have completed the Data Science and Machine Learning: Making Data-Driven Decisions program from the Massachusetts Institute of Technology (MIT) Institute for Data, Systems, and Society (IDSS). 🎓 I have also been expanding my expertise in AI/ML, generative AI, and cloud-based AI solutions.
 
-## Projects
+Currently, I am developing multiple agentic AI pipelines using LangGraph, Google Agent Development Kit (ADK), and Retrieval-Augmented Generation (RAG). My work focuses on multi-agent orchestration, intelligent information retrieval, data analysis, anomaly detection, and AI-powered insights. I am particularly interested in building scalable, reliable, and production-ready AI applications that solve real-world business problems.
 
-#### [Amazon Products Recommendation System](https://github.com/anusha-sthanam/Recommendation_Systems)
-This project involves recommending the best Amazon products available to users based on past rating data using recommendation systems techniques.
+🚀 Projects
 
-#### [FoodHub Analysis](https://github.com/anusha-sthanam/FoodHub_Analysis)
-This project involves analyzing the data to get a fair idea about the demand of different restaurants which will help the company to enhance business and customer experience.
+🤖 Agentic AI & Generative AI
 
-#### [Customers Prediction](https://github.com/anusha-sthanam/CustomersPrediction)
-This project involves analyzing the data and build an ML model to help identify which leads are more likely to convert to paid customers. 
+Coming soon: Multi-agent AI applications, LangGraph workflows, Google ADK pipelines, and RAG-powered intelligent assistants.
 
-- 🌱 I’m currently learning AI with cloud and Networking and Graphical models. 
-- 📫 How to reach me anushasthanam12@gmail.com
+🛍️ Amazon Products Recommendation System
+
+A recommendation system that analyzes historical Amazon product ratings to identify and recommend relevant products to users. This project explores recommendation algorithms and personalization techniques to improve product discovery and user experience.
+
+🍽️ FoodHub Analysis
+
+An exploratory data analysis project that examines restaurant demand, customer preferences, and ordering patterns to uncover actionable insights that can help improve business decisions and customer experience.
+
+📊 Customers Prediction
+
+A machine learning project that analyzes customer and lead data to build predictive models for identifying leads most likely to convert into paying customers, supporting data-driven sales and marketing strategies.
+
+🌱 Currently Exploring
+
+Agentic AI: Multi-agent systems, workflow orchestration, and autonomous task execution using LangGraph and Google ADK.
+
+RAG Pipelines: Building intelligent search and question-answering applications grounded in relevant documents and knowledge sources.
+
+Generative AI & LLMs: Prompt engineering, tool calling, context management, and AI-powered application development.
+
+Cloud AI & ML: Integrating AI/ML capabilities with cloud platforms and exploring scalable AI architectures.
+
+Advanced ML Concepts: Graphical models, predictive analytics, and data-driven decision-making.
+
+📫 Connect With Me
+
+Email: anushasthanam12@gmail.com
 
