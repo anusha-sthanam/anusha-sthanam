@@ -1,8 +1,8 @@
 I am a software engineer with 10+ years of experience in .NET, Java, and Enterprise Content Management (ECM) platforms such as SDL Tridion. I specialize in building scalable backend applications, APIs, and enterprise solutions, and I am passionate about exploring the possibilities of Artificial Intelligence (AI) and Machine Learning (ML).
 
-I am excited to have completed the Data Science and Machine Learning: Making Data-Driven Decisions program from the Massachusetts Institute of Technology (MIT) Institute for Data, Systems, and Society (IDSS). 🎓 I have also been expanding my expertise in AI/ML, generative AI, and cloud-based AI solutions.
-
 Currently, I am developing multiple agentic AI pipelines using LangGraph, Google Agent Development Kit (ADK), and Retrieval-Augmented Generation (RAG). My work focuses on multi-agent orchestration, intelligent information retrieval, data analysis, anomaly detection, and AI-powered insights. I am particularly interested in building scalable, reliable, and production-ready AI applications that solve real-world business problems.
+
+I am excited to have completed the Data Science and Machine Learning: Making Data-Driven Decisions program from the Massachusetts Institute of Technology (MIT) Institute for Data, Systems, and Society (IDSS). 🎓
 
 🚀 Projects
 
