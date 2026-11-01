@@ -38,3 +38,4 @@ Advanced ML Concepts: Graphical models, predictive analytics, and data-driven de
 
 Email: anushasthanam12@gmail.com
 
+ Dude! what is this? Your profile scarier than 418 movie. 12 companies in 12 years, & git projects 😱😱
